@@ -17,7 +17,7 @@ Aplicativo em C# WinForms que permite escurecer a tela para reduzir brilho, com 
 ## Instalação
 
 1. Baixe o release mais recente no GitHub:  
-[📥 Download do Release](https://github.com/Kaueneto/controle-de-brilho/releases)
+[📥 Download do Release](https://github.com/Kaueneto/controle-de-brilho/releases/download/v1.0/ScreenFilterWinForms.zip)
 
 2. Extraia o arquivo `.zip` (se houver) em um local de sua preferência.
 
