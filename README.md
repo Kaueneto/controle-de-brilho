@@ -34,4 +34,4 @@ Aplicativo em C# WinForms que permite escurecer a tela para reduzir brilho, com 
 - Para fechar a janela sem encerrar o programa, clique no 'X' — o app continuará rodando na bandeja. Pra encerrar a aplicação é necessário clicar em 'Fechar/Sair'.
 
 ---
-
+Este projeto surgiu da necessidade de um app que permitisse reduzir o brilho da tela e escurecer tudo para conforto visual, sem interferir em capturas de tela. Ao pressionar a tecla PrintScreen, a tela volta temporariamente ao estado normal, garantindo que a captura não fique escurecida.
