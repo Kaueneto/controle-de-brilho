@@ -1,0 +1,10 @@
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\bin\Release\ScreenFilterWinForms.exe.config
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\bin\Release\ScreenFilterWinForms.exe
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\bin\Release\ScreenFilterWinForms.pdb
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.csproj.AssemblyReference.cache
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.MainForm.resources
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.Properties.Resources.resources
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.csproj.GenerateResource.cache
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.exe
+C:\Users\Contas 09\Desktop\novoprojetoTela\ScreenFilterWinForms\ScreenFilterWinForms\obj\Release\ScreenFilterWinForms.pdb
